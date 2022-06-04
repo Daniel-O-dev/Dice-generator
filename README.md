@@ -1,6 +1,6 @@
-#Dice Generator
+# Dice Generator
 
-This aim of this roject was to build a website that produce random pair of dice. With this project in particular I really wanted to make the extra effort in making an apealing website.
+This aim of this roject was to build a website that produces random pair of dice. With this project in particular, I really wanted to make the extra effort in making an aesthetically pleasing website.
 
 Live Demo: [Roll dice](https://dice-generator.netlify.app)
 
